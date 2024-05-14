@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
-   <img src="https://readme-typing-svg.demolab.com/?lines=AI%20&ML%20Enthusiast%20;Frontend%20DEVELOPER;PROGRAMMER%20;font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=FRONTEND%20DEVELOPER%20;AI%20%26%20ML%20ENTHUSIAST;PROGRAMMER;&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" />
+</a>
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
