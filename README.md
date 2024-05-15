@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hi! I'm Pearl Khatri👩‍💻 </h1>
+<h1 align="center"> Hi, I'm Pearl Khatri👩‍💻 </h1>
 <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> -->
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
